@@ -1,5 +1,5 @@
 # Prothom-Alo-Scraper
-First createa a virtual environment and install those packages first:
+Create a a virtual environment and install those packages:
 
 ~~~bash
 python -m venv venv
