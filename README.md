@@ -1,5 +1,6 @@
 # Prothom-Alo-Scraper
-Create a a virtual environment and install those packages:
+
+Required Commands to run the scrapper:
 
 ~~~bash
 python -m venv venv
